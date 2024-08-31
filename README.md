@@ -10,4 +10,4 @@
  E os tokens são gerenciados por JWT.<br><br>
 
 
- A validação da presença da autorização do token impede quem não o possui de acessar recursos privados, porém pode acessar endpoints públicos.
+ A validação da presença da autorização do token impede de quem não o possui, de acessar recursos privados, porém pode acessar endpoints públicos.
